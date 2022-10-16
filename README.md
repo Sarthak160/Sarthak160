@@ -9,9 +9,6 @@
 - 📫 Reach me at mesarthak1608@gmail.com 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sarthak160)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarthak160&show_icons=true&locale=en&layout=compact" alt="Sarthak160" /></p>
 
 <p>&nbsp;
 
