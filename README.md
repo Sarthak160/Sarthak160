@@ -1,6 +1,4 @@
-
-  # <pre>          Hi there,I am SARTHAK SHYNGLE 👋          </pre>                    
-
+                   
 ![](https://komarev.com/ghpvc/?username=Sarthak160&color=green)
 
 - 🔭 I’m currently working on an open source api testing 🧪 platform [keploy](https://github.com/keploy/keploy).
