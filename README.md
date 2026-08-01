@@ -292,8 +292,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->
-<!-- Headlines appear here once the workflow runs -->
+<!-- TECH-NEWS:START -->- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) &nbsp;<sub>Aug 1</sub>
+- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) &nbsp;<sub>Aug 1</sub>
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) &nbsp;<sub>Aug 1</sub>
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) &nbsp;<sub>Aug 1</sub>
+- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) &nbsp;<sub>Jul 31</sub>
+- [India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/) &nbsp;<sub>Jul 31</sub>
 <!-- TECH-NEWS:END -->
 
 ---
