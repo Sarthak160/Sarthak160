@@ -1,13 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sarthak%20Shyngle&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Site%20Reliability%20%2F%20Platform%20Engineer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=Sarthak%20Shyngle&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Site%20Reliability%20%2F%20Platform%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/Sarthak160">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=680&lines=Senior+SRE+%2F+Platform+Engineer+%40+Alpheya;Founding+Engineer+%40+Keploy+(%233+all-time+contributor);Go+%E2%80%A2+eBPF+%E2%80%A2+Kubernetes+%E2%80%A2+Linux+Internals;GSoC+Mentor+2023%E2%80%9325+%7C+300%2B+PRs+reviewed" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <a href="https://summerofcode.withgoogle.com/archive/2024/organizations/keploy"><img src="https://img.shields.io/badge/GSoC_Mentor-2023--2025-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://github.com/Sarthak160"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -103,7 +100,6 @@ Concurrency, memory model, profiling, runtime behaviour
 | [Cross-Platform Extensions: Keploy IDE Integration](https://summerofcode.withgoogle.com/archive/2024/organizations/keploy) | Akash Singh | Animesh Pathak, Gourav Kumar |
 
 <div align="center">
-
 <a href="https://github.com/keploy/gsoc"><img src="https://img.shields.io/badge/Keploy_GSoC_Hub-Explore_projects-FF914D?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://summerofcode.withgoogle.com/archive/2024/organizations/keploy"><img src="https://img.shields.io/badge/GSoC_Archive-Keploy-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
 
@@ -116,15 +112,12 @@ Concurrency, memory model, profiling, runtime behaviour
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=go,java,typescript,javascript,python,c,bash,docker,kubernetes,linux,git,github,githubactions,postgres,mongodb,redis,kafka,graphql,grafana,prometheus&perline=10" />
 
 </div>
 
 <details>
 <summary><b>🔍 Expand for the full breakdown</b></summary>
-
-<br/>
 
 **Languages** &nbsp;
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -174,8 +167,6 @@ Concurrency, memory model, profiling, runtime behaviour
 
 <details>
 <summary><b>🔍 Expand full project breakdowns</b></summary>
-
-<br/>
 
 <table>
 <tr>
@@ -248,8 +239,6 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 <details>
 <summary><b>📜 More: earlier work</b></summary>
 
-<br/>
-
 - **Java Agent (ByteBuddy)** — runtime bytecode instrumentation to generate E2E tests inside an **Apache Karaf** environment.
 - **Java SDK with middleware filters** — captured every request/response of any **Spring Boot** app as tests + mocks, with zero code changes.
 - **gRPC server** — protobuf-based contract enabling multi-language SDK integration without redefining models per language.
@@ -263,7 +252,6 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img height="165" src="https://streak-stats.demolab.com/?user=Sarthak160&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
 </div>
@@ -292,12 +280,8 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) &nbsp;<sub>Aug 1</sub>
-- [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) &nbsp;<sub>Aug 1</sub>
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) &nbsp;<sub>Aug 1</sub>
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) &nbsp;<sub>Aug 1</sub>
-- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) &nbsp;<sub>Jul 31</sub>
-- [India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/) &nbsp;<sub>Jul 31</sub>
+<!-- TECH-NEWS:START -->
+<!-- Headlines appear here once the workflow runs -->
 <!-- TECH-NEWS:END -->
 
 ---
@@ -308,12 +292,10 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 `Large-scale system design` · `SRE practice at scale` · `Advanced observability` · `Chaos engineering`
 
-<br/><br/>
-
 **Open to interesting problems in platform engineering, reliability, and developer tooling.**
 
 📫 <a href="mailto:mesarthak1608@gmail.com">mesarthak1608@gmail.com</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80&section=footer" width="100%" />
 
 </div>
