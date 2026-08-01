@@ -49,7 +49,7 @@ func main() {
 - 🧪 **Before:** **Founding Engineer & Senior SWE at [Keploy](https://github.com/keploy/keploy)** — turning **real API traffic** into test suites + mocks, with zero code changes to the app under test.
 - 🐧 **Deep end:** eBPF (kprobes, cgroup socket programs), L4/L7 transparent proxies, TLS interception, Linux internals.
 - ☸️ **Kubernetes:** mutating webhooks, custom controllers & **CRD testing**, Helm + FluxCD GitOps.
-- 🎓 **Google Summer of Code mentor, 4 years running (2022–25)** — see below.
+- 🎓 **Google Summer of Code mentor, 3 years running (2023–25)** — see below.
 - 🏆 **#3 all-time contributor** at Keploy OSS · **300+ PRs** reviewed.
 - 💬 **Ask me about:** DSA, Go concurrency, API testing, kernel-space networking.
 - ⚡ **Off-keyboard:** sports and any excuse for a bit of adventure.
@@ -163,6 +163,20 @@ Concurrency, memory model, profiling, runtime behaviour
 
 ## 📌 Selected Work
 
+| Project | What it does | Stack |
+|---|---|---|
+| 🧬 **[Keploy — Core Platform](https://github.com/keploy/keploy)** | Standalone binary → distributed microservices over IPC sockets. **2× faster**, **85%** quicker test runs | `Go` `IPC` |
+| ☸️ **[K8s Proxy & CRD Testing](https://keploy.io/blog/technology/how-to-test-traffic-with-a-custom-kubernetes-controller)** | Mutating webhook injects agents into live pods for in-cluster record & replay | `Go` `controller-runtime` |
+| 🐝 **eBPF Interception Engine** | kprobes + cgroup socket programs → codeless mocks via an L4/L5 transparent proxy | `eBPF` `C` `Go` |
+| 🔥 **Profiler-MCP** | MCP server letting LLMs analyze perf bottlenecks and auto-launch flamegraphs | `MCP` `Go` |
+| 🤖 **[AI Unit-Test Generator](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)** | VS Code extension (**10k+ installs**) + LLM PR agent with Tree-sitter AST parsing | `LLMs` `TypeScript` |
+| 🐘 **Postgres Wire-Protocol Parser** | Binary protocol parser tuned for **2k+ ops/sec** live capture and replay | `Go` `Performance` |
+
+<details>
+<summary><b>🔍 Expand full project breakdowns</b></summary>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -229,6 +243,8 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 </tr>
 </table>
 
+</details>
+
 <details>
 <summary><b>📜 More: earlier work</b></summary>
 
@@ -250,11 +266,9 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <img height="165" src="https://streak-stats.demolab.com/?user=Sarthak160&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
-<br/><br/>
-
-
 </div>
 
+---
 
 ## 🎖️ Open Source & Community
 
@@ -274,15 +288,21 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 ---
 
+## 📡 On my radar
+
+<sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
+
+<!-- TECH-NEWS:START -->
+<!-- Headlines appear here once the workflow runs -->
+<!-- TECH-NEWS:END -->
+
+---
+
 <div align="center">
 
 ### 💭 Currently exploring
 
 `Large-scale system design` · `SRE practice at scale` · `Advanced observability` · `Chaos engineering`
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br/><br/>
 
