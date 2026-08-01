@@ -1,0 +1,50 @@
+# Place at: .github/workflows/tech-news.yml
+# in your Sarthak160/Sarthak160 profile repository.
+
+name: Update tech radar
+
+on:
+  schedule:
+    - cron: "0 6 * * *"    # daily, 06:00 UTC (11:30 IST)
+  workflow_dispatch:        # manual run from the Actions tab
+
+permissions:
+  contents: write           # needed to commit the updated README
+
+jobs:
+  update-readme:
+    name: Pull latest AI / infra headlines
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch headlines
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "TECH-NEWS"
+          max_post_count: 6
+          feed_list: >-
+            https://hnrss.org/frontpage?points=300,
+            https://techcrunch.com/category/artificial-intelligence/feed/,
+            https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+          template: "- [$title]($url) &nbsp;<sub>$date</sub>$newline"
+          date_format: "mmm d"
+          commit_message: "chore: refresh tech radar"
+          committer_email: "mesarthak1608@gmail.com"
+
+# ---------------------------------------------------------------------------
+# Swap in whichever feeds you actually read. A few good ones:
+#
+#   Hacker News (300+ pts)  https://hnrss.org/frontpage?points=300
+#   arXiv cs.AI             http://export.arxiv.org/rss/cs.AI
+#   arXiv cs.DC (distsys)   http://export.arxiv.org/rss/cs.DC
+#   CNCF blog               https://www.cncf.io/feed/
+#   Kubernetes blog         https://kubernetes.io/feed.xml
+#   Ars Technica            https://feeds.arstechnica.com/arstechnica/index
+#   Cloudflare blog         https://blog.cloudflare.com/rss/
+#   eBPF / Cilium           https://cilium.io/blog/rss.xml
+#
+# Tighten the HN filter with a higher points threshold, or narrow by topic:
+#   https://hnrss.org/newest?q=ebpf&points=100
+# ---------------------------------------------------------------------------
