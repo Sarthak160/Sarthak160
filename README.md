@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sarthak%20Shyngle&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Site%20Reliability%20%2F%20Platform%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/Sarthak160">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=680&lines=Senior+SRE+%2F+Platform+Engineer+%40+Alpheya;Founding+Engineer+%40+Keploy+(%233+all-time+contributor);Go+%E2%80%A2+eBPF+%E2%80%A2+Kubernetes+%E2%80%A2+Linux+Internals;GSoC+Mentor+2022%E2%80%9325+%7C+300%2B+PRs+reviewed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=680&lines=Senior+SRE+%2F+Platform+Engineer+%40+Alpheya;Founding+Engineer+%40+Keploy+(%233+all-time+contributor);Go+%E2%80%A2+eBPF+%E2%80%A2+Kubernetes+%E2%80%A2+Linux+Internals;GSoC+Mentor+2023%E2%80%9325+%7C+300%2B+PRs+reviewed" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://summerofcode.withgoogle.com/archive/2024/organizations/keploy"><img src="https://img.shields.io/badge/GSoC_Mentor-2022--2025-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://summerofcode.withgoogle.com/archive/2024/organizations/keploy"><img src="https://img.shields.io/badge/GSoC_Mentor-2023--2025-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://github.com/Sarthak160"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sarthak-shyngle-4b089a17a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://sarthak1608.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -60,16 +60,15 @@ func main() {
 
 # 🎓 Google Summer of Code
 
-<img src="https://img.shields.io/badge/2022-Mentor-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/2023-Mentor-EA4335?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/2024-Mentor-FBBC05?style=for-the-badge&logo=google&logoColor=black" />
 <img src="https://img.shields.io/badge/2025-Mentor-34A853?style=for-the-badge&logo=google&logoColor=white" />
 
-### 4 consecutive years mentoring for [Keploy](https://github.com/keploy/gsoc)
+### 3 consecutive years mentoring for [Keploy](https://github.com/keploy/gsoc)
 
 </div>
 
-> Every summer since 2022 I've mentored GSoC contributors through **systems programming** and **Go internals** — the parts of open source that scare people off. Proposal review, architecture guidance, code review, and the long unglamorous middle where a contributor turns into a maintainer.
+> Every summer since 2023 I've mentored GSoC contributors through **systems programming** and **Go internals** — the parts of open source that scare people off. Proposal review, architecture guidance, code review, and the long unglamorous middle where a contributor turns into a maintainer.
 
 <table>
 <tr>
@@ -249,45 +248,13 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthak160&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7&cache_seconds=86400" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Sarthak160&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak160&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=36BCF7&cache_seconds=86400" />
 
 </div>
 
-<details>
-<summary align="center"><b>📈 Contribution activity graph</b></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak160&theme=tokyo-night&hide_border=true&bg_color=00000000&color=36BCF7&line=36BCF7&point=ffffff&area=true" width="100%" />
-</details>
-
-<div align="center">
-
-![GSoC Mentor](https://img.shields.io/badge/GSoC_Mentor-2022--25-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Keploy](https://img.shields.io/badge/%233_All--Time_Contributor-Keploy_OSS-FF914D?style=for-the-badge&logo=github&logoColor=white)
-![PRs Reviewed](https://img.shields.io/badge/PRs_Reviewed-300%2B-2EA043?style=for-the-badge&logo=git&logoColor=white)
-![Founding Engineer](https://img.shields.io/badge/Founding_Engineer-Keploy-6E40C9?style=for-the-badge&logo=rocket&logoColor=white)
-
-</div>
-
----
-
-## 🐍 Watch the snake eat my contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak160/Sarthak160/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak160/Sarthak160/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sarthak160/Sarthak160/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
 
 ## 🎖️ Open Source & Community
 
