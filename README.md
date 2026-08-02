@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=Sarthak%20Shyngle&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Site%20Reliability%20%2F%20Platform%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/Sarthak160">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=680&lines=Senior+SRE+%2F+Platform+Engineer+%40+Alpheya;Founding+Engineer+%40+Keploy+(%233+all-time+contributor);Go+%E2%80%A2+eBPF+%E2%80%A2+Kubernetes+%E2%80%A2+Linux+Internals;GSoC+Mentor+2023%E2%80%9325+%7C+300%2B+PRs+reviewed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=680&lines=Senior+SRE+%2F+Platform+Engineer+%40+Alpheya;EX-Founding+Engineer+%40+Keploy+(%233+all-time+contributor);Go+%E2%80%A2+eBPF+%E2%80%A2+Kubernetes+%E2%80%A2+Linux+Internals;GSoC+Mentor+2023%E2%80%9325+%7C+300%2B+PRs+reviewed" alt="Typing SVG" />
 </a>
 
 <a href="https://summerofcode.withgoogle.com/archive/2024/organizations/keploy"><img src="https://img.shields.io/badge/GSoC_Mentor-2023--2025-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
