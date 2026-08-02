@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) &nbsp;<sub>Aug 1</sub>
+<!-- TECH-NEWS:START -->- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) &nbsp;<sub>Aug 1</sub>
+- [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/) &nbsp;<sub>Aug 1</sub>
+- [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop) &nbsp;<sub>Aug 1</sub>
+- [How Google helped destroy adoption of RSS feeds &lpar;2023&rpar;](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds) &nbsp;<sub>Aug 1</sub>
+- [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/) &nbsp;<sub>Aug 1</sub>
 - [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/) &nbsp;<sub>Aug 1</sub>
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) &nbsp;<sub>Aug 1</sub>
-- [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/) &nbsp;<sub>Jul 31</sub>
-- [India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/) &nbsp;<sub>Jul 31</sub>
-- [Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/) &nbsp;<sub>Jul 31</sub>
 <!-- TECH-NEWS:END -->
 
 ---
