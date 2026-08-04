@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) &nbsp;<sub>Aug 3</sub>
-- [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) &nbsp;<sub>Aug 2</sub>
-- [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music) &nbsp;<sub>Aug 2</sub>
-- [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) &nbsp;<sub>Aug 2</sub>
-- [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) &nbsp;<sub>Aug 2</sub>
-- [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/) &nbsp;<sub>Aug 1</sub>
+<!-- TECH-NEWS:START -->- [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/) &nbsp;<sub>Aug 3</sub>
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) &nbsp;<sub>Aug 3</sub>
+- [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/) &nbsp;<sub>Aug 3</sub>
+- [Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/) &nbsp;<sub>Aug 3</sub>
+- [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/) &nbsp;<sub>Aug 3</sub>
+- [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/) &nbsp;<sub>Aug 3</sub>
 <!-- TECH-NEWS:END -->
 
 ---
