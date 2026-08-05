@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/) &nbsp;<sub>Aug 3</sub>
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) &nbsp;<sub>Aug 3</sub>
-- [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/) &nbsp;<sub>Aug 3</sub>
-- [Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/) &nbsp;<sub>Aug 3</sub>
-- [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/) &nbsp;<sub>Aug 3</sub>
-- [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/) &nbsp;<sub>Aug 3</sub>
+<!-- TECH-NEWS:START -->- [SpaceX has bought $329M worth of Tesla Megapacks so far this year](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) &nbsp;<sub>Aug 4</sub>
+- [AMD&amp;#8217;s data center business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen) &nbsp;<sub>Aug 4</sub>
+- [SpaceX made more revenue as an AI company than a space company](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud) &nbsp;<sub>Aug 4</sub>
+- [Open-weight AI models are catching up to the frontier. The safety gap remains.](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/) &nbsp;<sub>Aug 4</sub>
+- [Anthropic signs $10B deal with AI cloud startup Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/) &nbsp;<sub>Aug 4</sub>
+- [Meet Wrinkles, an app that uncovers the hidden stories of the places around you](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/) &nbsp;<sub>Aug 4</sub>
 <!-- TECH-NEWS:END -->
 
 ---
