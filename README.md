@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Elon Musk&amp;#8217;s attempt at an AI Wikipedia hasn&amp;#8217;t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead) &nbsp;<sub>Aug 6</sub>
-- [Meta launches Muse Code, an AI agent for large code bases](https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/) &nbsp;<sub>Aug 5</sub>
-- [Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/) &nbsp;<sub>Aug 5</sub>
-- [I&#39;m switching my phone from Android to Linux](https://runarcn.no/android-to-linux/) &nbsp;<sub>Aug 5</sub>
-- [Jeff Dean and other top AI researchers are leaving Google to launch their own startup](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/) &nbsp;<sub>Aug 5</sub>
-- [Zed DeltaDB](https://zed.dev/deltadb) &nbsp;<sub>Aug 5</sub>
+<!-- TECH-NEWS:START -->- [OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400](https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/) &nbsp;<sub>Aug 6</sub>
+- [Jony Ive&amp;#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker](https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor) &nbsp;<sub>Aug 6</sub>
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) &nbsp;<sub>Aug 6</sub>
+- [Suno shares plans to combat spammy AI music](https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark) &nbsp;<sub>Aug 6</sub>
+- [ChatGPT brings unlimited text chats to free users](https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/) &nbsp;<sub>Aug 6</sub>
+- [Taste Is All That&#39;s Left](https://notashelf.dev/posts/taste-is-all-thats-left) &nbsp;<sub>Aug 6</sub>
 <!-- TECH-NEWS:END -->
 
 ---
