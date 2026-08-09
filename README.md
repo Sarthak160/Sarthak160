@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) &nbsp;<sub>Aug 7</sub>
-- [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/) &nbsp;<sub>Aug 7</sub>
-- [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo) &nbsp;<sub>Aug 7</sub>
-- [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel) &nbsp;<sub>Aug 7</sub>
-- [OpenAI puts the brakes on a new model because it&amp;#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) &nbsp;<sub>Aug 7</sub>
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) &nbsp;<sub>Aug 7</sub>
+<!-- TECH-NEWS:START -->- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) &nbsp;<sub>Aug 8</sub>
+- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) &nbsp;<sub>Aug 8</sub>
+- [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) &nbsp;<sub>Aug 8</sub>
+- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) &nbsp;<sub>Aug 8</sub>
+- [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) &nbsp;<sub>Aug 8</sub>
+- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) &nbsp;<sub>Aug 7</sub>
 <!-- TECH-NEWS:END -->
 
 ---
