@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/) &nbsp;<sub>Aug 8</sub>
-- [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/) &nbsp;<sub>Aug 8</sub>
-- [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant) &nbsp;<sub>Aug 8</sub>
-- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) &nbsp;<sub>Aug 8</sub>
-- [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) &nbsp;<sub>Aug 8</sub>
-- [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/) &nbsp;<sub>Aug 7</sub>
+<!-- TECH-NEWS:START -->- [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/) &nbsp;<sub>Aug 9</sub>
+- [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/) &nbsp;<sub>Aug 9</sub>
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) &nbsp;<sub>Aug 9</sub>
+- [Windows 11&#39;s built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html) &nbsp;<sub>Aug 9</sub>
+- [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) &nbsp;<sub>Aug 9</sub>
+- [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) &nbsp;<sub>Aug 9</sub>
 <!-- TECH-NEWS:END -->
 
 ---
