@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/) &nbsp;<sub>Aug 9</sub>
-- [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/) &nbsp;<sub>Aug 9</sub>
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) &nbsp;<sub>Aug 9</sub>
-- [Windows 11&#39;s built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html) &nbsp;<sub>Aug 9</sub>
-- [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) &nbsp;<sub>Aug 9</sub>
-- [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/) &nbsp;<sub>Aug 9</sub>
+<!-- TECH-NEWS:START -->- [OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/) &nbsp;<sub>Aug 11</sub>
+- [As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/) &nbsp;<sub>Aug 10</sub>
+- [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision) &nbsp;<sub>Aug 10</sub>
+- [Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/) &nbsp;<sub>Aug 10</sub>
+- [Tech industry is buzzing after a Claude agent hacked into a gym](https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/) &nbsp;<sub>Aug 10</sub>
+- [Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/) &nbsp;<sub>Aug 10</sub>
 <!-- TECH-NEWS:END -->
 
 ---
