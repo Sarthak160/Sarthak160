@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive) &nbsp;<sub>Aug 12</sub>
-- [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/) &nbsp;<sub>Aug 11</sub>
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) &nbsp;<sub>Aug 11</sub>
-- [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users) &nbsp;<sub>Aug 11</sub>
-- [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/) &nbsp;<sub>Aug 11</sub>
-- [Google’s Gemini app surges to 1 billion users](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/) &nbsp;<sub>Aug 11</sub>
+<!-- TECH-NEWS:START -->- [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/) &nbsp;<sub>Aug 12</sub>
+- [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/) &nbsp;<sub>Aug 12</sub>
+- [Delta](https://zed.dev/blog/introducing-delta) &nbsp;<sub>Aug 12</sub>
+- [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/) &nbsp;<sub>Aug 12</sub>
+- [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/) &nbsp;<sub>Aug 12</sub>
+- [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/) &nbsp;<sub>Aug 12</sub>
 <!-- TECH-NEWS:END -->
 
 ---
