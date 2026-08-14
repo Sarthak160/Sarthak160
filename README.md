@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/) &nbsp;<sub>Aug 12</sub>
-- [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/) &nbsp;<sub>Aug 12</sub>
-- [Delta](https://zed.dev/blog/introducing-delta) &nbsp;<sub>Aug 12</sub>
-- [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/) &nbsp;<sub>Aug 12</sub>
-- [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/) &nbsp;<sub>Aug 12</sub>
-- [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/) &nbsp;<sub>Aug 12</sub>
+<!-- TECH-NEWS:START -->- [Microsoft’s Clippy-like Mico character is no longer the face of Copilot](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired) &nbsp;<sub>Aug 13</sub>
+- [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/) &nbsp;<sub>Aug 13</sub>
+- [Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/) &nbsp;<sub>Aug 13</sub>
+- [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure) &nbsp;<sub>Aug 13</sub>
+- [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/) &nbsp;<sub>Aug 13</sub>
+- [IBM partners with OpenAI to bolster enterprise AI push](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/) &nbsp;<sub>Aug 13</sub>
 <!-- TECH-NEWS:END -->
 
 ---
