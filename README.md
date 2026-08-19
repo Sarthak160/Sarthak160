@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/) &nbsp;<sub>Aug 17</sub>
-- [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/) &nbsp;<sub>Aug 17</sub>
-- [Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/) &nbsp;<sub>Aug 17</sub>
-- [Groq raises $350M to fuel its pivot from AI chips to neocloud](https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/) &nbsp;<sub>Aug 17</sub>
-- [Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project](https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/) &nbsp;<sub>Aug 17</sub>
-- [Wispr raises $280M at $2B valuation as it looks beyond dictation](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/) &nbsp;<sub>Aug 17</sub>
+<!-- TECH-NEWS:START -->- [Sticky wage norms and the real wage cost of unexpected inflation](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) &nbsp;<sub>Aug 19</sub>
+- [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/) &nbsp;<sub>Aug 18</sub>
+- [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai) &nbsp;<sub>Aug 18</sub>
+- [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) &nbsp;<sub>Aug 18</sub>
+- [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack) &nbsp;<sub>Aug 18</sub>
+- [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/) &nbsp;<sub>Aug 18</sub>
 <!-- TECH-NEWS:END -->
 
 ---
