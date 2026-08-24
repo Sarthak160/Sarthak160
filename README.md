@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) &nbsp;<sub>Aug 22</sub>
-- [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) &nbsp;<sub>Aug 22</sub>
-- [Scrap &lpar;2006&rpar;](https://twitter.com/moxie/status/2091218652133732491) &nbsp;<sub>Aug 22</sub>
-- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) &nbsp;<sub>Aug 22</sub>
-- [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) &nbsp;<sub>Aug 22</sub>
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) &nbsp;<sub>Aug 22</sub>
+<!-- TECH-NEWS:START -->- [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/) &nbsp;<sub>Aug 23</sub>
+- [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) &nbsp;<sub>Aug 23</sub>
+- [Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/) &nbsp;<sub>Aug 23</sub>
+- [Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/) &nbsp;<sub>Aug 23</sub>
+- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) &nbsp;<sub>Aug 23</sub>
+- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) &nbsp;<sub>Aug 22</sub>
 <!-- TECH-NEWS:END -->
 
 ---
