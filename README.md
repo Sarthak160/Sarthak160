@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/) &nbsp;<sub>Aug 26</sub>
-- [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/) &nbsp;<sub>Aug 26</sub>
-- [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/) &nbsp;<sub>Aug 26</sub>
-- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) &nbsp;<sub>Aug 25</sub>
-- [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/) &nbsp;<sub>Aug 25</sub>
-- [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead) &nbsp;<sub>Aug 25</sub>
+<!-- TECH-NEWS:START -->- [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi) &nbsp;<sub>Aug 27</sub>
+- [Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/) &nbsp;<sub>Aug 27</sub>
+- [Hugging Face is selling a cute $399 open source duck robot, Microduck](https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/) &nbsp;<sub>Aug 27</sub>
+- [AI’s memory crunch is coming for Android apps](https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/) &nbsp;<sub>Aug 27</sub>
+- [Here’s all the times AI has gone rogue and hacked other companies](https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/) &nbsp;<sub>Aug 27</sub>
+- [OpenAI&amp;#8217;s executive exodus has one big winner](https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus) &nbsp;<sub>Aug 27</sub>
 <!-- TECH-NEWS:END -->
 
 ---
