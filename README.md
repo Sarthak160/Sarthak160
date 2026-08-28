@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi) &nbsp;<sub>Aug 27</sub>
-- [Google’s AI Mode can now track flight prices, help book hotels, and more](https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/) &nbsp;<sub>Aug 27</sub>
-- [Hugging Face is selling a cute $399 open source duck robot, Microduck](https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/) &nbsp;<sub>Aug 27</sub>
-- [AI’s memory crunch is coming for Android apps](https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/) &nbsp;<sub>Aug 27</sub>
-- [Here’s all the times AI has gone rogue and hacked other companies](https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/) &nbsp;<sub>Aug 27</sub>
-- [OpenAI&amp;#8217;s executive exodus has one big winner](https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus) &nbsp;<sub>Aug 27</sub>
+<!-- TECH-NEWS:START -->- [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) &nbsp;<sub>Aug 28</sub>
+- [Get your Windows license refund](https://en.refund4freedom.org/) &nbsp;<sub>Aug 28</sub>
+- [Anthropic gets its first court win over the Pentagon’s supply-chain risk label](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/) &nbsp;<sub>Aug 28</sub>
+- [“It works better in the app”](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/) &nbsp;<sub>Aug 28</sub>
+- [Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/) &nbsp;<sub>Aug 28</sub>
+- [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) &nbsp;<sub>Aug 28</sub>
 <!-- TECH-NEWS:END -->
 
 ---
