@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) &nbsp;<sub>Aug 28</sub>
-- [Get your Windows license refund](https://en.refund4freedom.org/) &nbsp;<sub>Aug 28</sub>
-- [Anthropic gets its first court win over the Pentagon’s supply-chain risk label](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/) &nbsp;<sub>Aug 28</sub>
-- [“It works better in the app”](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/) &nbsp;<sub>Aug 28</sub>
-- [Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India](https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/) &nbsp;<sub>Aug 28</sub>
-- [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling) &nbsp;<sub>Aug 28</sub>
+<!-- TECH-NEWS:START -->- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) &nbsp;<sub>Aug 29</sub>
+- [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/) &nbsp;<sub>Aug 28</sub>
+- [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/) &nbsp;<sub>Aug 28</sub>
+- [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/) &nbsp;<sub>Aug 28</sub>
+- [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit) &nbsp;<sub>Aug 28</sub>
+- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) &nbsp;<sub>Aug 28</sub>
 <!-- TECH-NEWS:END -->
 
 ---
