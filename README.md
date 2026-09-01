@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/) &nbsp;<sub>Aug 31</sub>
-- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) &nbsp;<sub>Aug 30</sub>
-- [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/) &nbsp;<sub>Aug 30</sub>
-- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) &nbsp;<sub>Aug 30</sub>
-- [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras) &nbsp;<sub>Aug 30</sub>
-- [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/) &nbsp;<sub>Aug 30</sub>
+<!-- TECH-NEWS:START -->- [Fastpotify](https://fastpotify.rocks/) &nbsp;<sub>Sep 1</sub>
+- [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) &nbsp;<sub>Sep 1</sub>
+- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) &nbsp;<sub>Aug 31</sub>
+- [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/) &nbsp;<sub>Aug 31</sub>
+- [Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/) &nbsp;<sub>Aug 31</sub>
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) &nbsp;<sub>Aug 31</sub>
 <!-- TECH-NEWS:END -->
 
 ---
