@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Fastpotify](https://fastpotify.rocks/) &nbsp;<sub>Sep 1</sub>
-- [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) &nbsp;<sub>Sep 1</sub>
-- [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) &nbsp;<sub>Aug 31</sub>
-- [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/) &nbsp;<sub>Aug 31</sub>
-- [Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/) &nbsp;<sub>Aug 31</sub>
-- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) &nbsp;<sub>Aug 31</sub>
+<!-- TECH-NEWS:START -->- [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai) &nbsp;<sub>Sep 1</sub>
+- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/) &nbsp;<sub>Sep 1</sub>
+- [Anthropic launches Claude Fable 5.1 and says it&amp;#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) &nbsp;<sub>Sep 1</sub>
+- [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/) &nbsp;<sub>Sep 1</sub>
+- [Google’s Android update tackles motion sickness, accessibility, and more](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/) &nbsp;<sub>Sep 1</sub>
+- [OpenAI delayed its new model’s development after the Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay) &nbsp;<sub>Sep 1</sub>
 <!-- TECH-NEWS:END -->
 
 ---
