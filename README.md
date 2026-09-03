@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Google needs Hollywood more than the studios need AI](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai) &nbsp;<sub>Sep 1</sub>
-- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/) &nbsp;<sub>Sep 1</sub>
-- [Anthropic launches Claude Fable 5.1 and says it&amp;#8217;s up to 45 percent cheaper for agentic work](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1) &nbsp;<sub>Sep 1</sub>
-- [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/) &nbsp;<sub>Sep 1</sub>
-- [Google’s Android update tackles motion sickness, accessibility, and more](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/) &nbsp;<sub>Sep 1</sub>
-- [OpenAI delayed its new model’s development after the Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay) &nbsp;<sub>Sep 1</sub>
+<!-- TECH-NEWS:START -->- [The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 2</sub>
+- [Palo Alto Networks paid $500M for Thrive-backed Console, sources say](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/) &nbsp;<sub>Sep 2</sub>
+- [TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/) &nbsp;<sub>Sep 2</sub>
+- [OpenAI’s new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/) &nbsp;<sub>Sep 2</sub>
+- [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash) &nbsp;<sub>Sep 2</sub>
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) &nbsp;<sub>Sep 2</sub>
 <!-- TECH-NEWS:END -->
 
 ---
