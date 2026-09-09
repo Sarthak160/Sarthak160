@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) &nbsp;<sub>Sep 8</sub>
-- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) &nbsp;<sub>Sep 8</sub>
-- [I&#39;ve factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) &nbsp;<sub>Sep 8</sub>
-- [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) &nbsp;<sub>Sep 7</sub>
-- [216M Spy TVs – The LG Smart TV Problem [video]](https://www.youtube.com/watch?v=6IFVTcM28KA) &nbsp;<sub>Sep 7</sub>
-- [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft) &nbsp;<sub>Sep 6</sub>
+<!-- TECH-NEWS:START -->- [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans) &nbsp;<sub>Sep 9</sub>
+- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) &nbsp;<sub>Sep 8</sub>
+- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) &nbsp;<sub>Sep 8</sub>
+- [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) &nbsp;<sub>Sep 8</sub>
+- [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) &nbsp;<sub>Sep 8</sub>
+- [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution) &nbsp;<sub>Sep 8</sub>
 <!-- TECH-NEWS:END -->
 
 ---
