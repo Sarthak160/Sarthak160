@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans) &nbsp;<sub>Sep 9</sub>
-- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) &nbsp;<sub>Sep 8</sub>
-- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) &nbsp;<sub>Sep 8</sub>
-- [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) &nbsp;<sub>Sep 8</sub>
-- [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) &nbsp;<sub>Sep 8</sub>
-- [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution) &nbsp;<sub>Sep 8</sub>
+<!-- TECH-NEWS:START -->- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907) &nbsp;<sub>Sep 10</sub>
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) &nbsp;<sub>Sep 10</sub>
+- [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/) &nbsp;<sub>Sep 10</sub>
+- [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/) &nbsp;<sub>Sep 9</sub>
+- [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/) &nbsp;<sub>Sep 9</sub>
+- [Suno releases its first AI music model made with record industry help](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help) &nbsp;<sub>Sep 9</sub>
 <!-- TECH-NEWS:END -->
 
 ---
