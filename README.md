@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907) &nbsp;<sub>Sep 10</sub>
-- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) &nbsp;<sub>Sep 10</sub>
-- [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/) &nbsp;<sub>Sep 10</sub>
-- [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/) &nbsp;<sub>Sep 9</sub>
-- [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/) &nbsp;<sub>Sep 9</sub>
-- [Suno releases its first AI music model made with record industry help](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help) &nbsp;<sub>Sep 9</sub>
+<!-- TECH-NEWS:START -->- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/) &nbsp;<sub>Sep 11</sub>
+- [Jensen Huang explains why Nvidia will grow an astounding 70% next year](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/) &nbsp;<sub>Sep 10</sub>
+- [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 10</sub>
+- [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch) &nbsp;<sub>Sep 10</sub>
+- [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/) &nbsp;<sub>Sep 10</sub>
+- [Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/) &nbsp;<sub>Sep 10</sub>
 <!-- TECH-NEWS:END -->
 
 ---
