@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/) &nbsp;<sub>Sep 11</sub>
-- [Jensen Huang explains why Nvidia will grow an astounding 70% next year](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/) &nbsp;<sub>Sep 10</sub>
-- [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 10</sub>
-- [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch) &nbsp;<sub>Sep 10</sub>
-- [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/) &nbsp;<sub>Sep 10</sub>
-- [Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/) &nbsp;<sub>Sep 10</sub>
+<!-- TECH-NEWS:START -->- [google.com/goto: Google&#39;s anti-scraping update](https://www.autom.dev/blog/google-search-goto-links) &nbsp;<sub>Sep 12</sub>
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) &nbsp;<sub>Sep 11</sub>
+- [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/) &nbsp;<sub>Sep 11</sub>
+- [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) &nbsp;<sub>Sep 11</sub>
+- [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/) &nbsp;<sub>Sep 11</sub>
+- [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal) &nbsp;<sub>Sep 11</sub>
 <!-- TECH-NEWS:END -->
 
 ---
