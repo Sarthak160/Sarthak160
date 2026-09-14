@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) &nbsp;<sub>Sep 13</sub>
-- [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack) &nbsp;<sub>Sep 12</sub>
-- [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised) &nbsp;<sub>Sep 12</sub>
-- [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) &nbsp;<sub>Sep 12</sub>
-- [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/) &nbsp;<sub>Sep 12</sub>
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) &nbsp;<sub>Sep 12</sub>
+<!-- TECH-NEWS:START -->- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) &nbsp;<sub>Sep 13</sub>
+- [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting) &nbsp;<sub>Sep 13</sub>
+- [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/) &nbsp;<sub>Sep 13</sub>
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) &nbsp;<sub>Sep 13</sub>
+- [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/) &nbsp;<sub>Sep 13</sub>
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) &nbsp;<sub>Sep 13</sub>
 <!-- TECH-NEWS:END -->
 
 ---
