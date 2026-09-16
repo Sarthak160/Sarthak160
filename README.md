@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Jensen Huang took a call from Trump, and showed off something else, too](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/) &nbsp;<sub>Sep 15</sub>
-- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) &nbsp;<sub>Sep 14</sub>
-- [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/) &nbsp;<sub>Sep 14</sub>
-- [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) &nbsp;<sub>Sep 14</sub>
-- [OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/) &nbsp;<sub>Sep 14</sub>
-- [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit) &nbsp;<sub>Sep 14</sub>
+<!-- TECH-NEWS:START -->- [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) &nbsp;<sub>Sep 16</sub>
+- [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september) &nbsp;<sub>Sep 15</sub>
+- [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) &nbsp;<sub>Sep 15</sub>
+- [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) &nbsp;<sub>Sep 15</sub>
+- [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) &nbsp;<sub>Sep 15</sub>
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) &nbsp;<sub>Sep 15</sub>
 <!-- TECH-NEWS:END -->
 
 ---
