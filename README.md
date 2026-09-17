@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) &nbsp;<sub>Sep 16</sub>
-- [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september) &nbsp;<sub>Sep 15</sub>
-- [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) &nbsp;<sub>Sep 15</sub>
-- [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) &nbsp;<sub>Sep 15</sub>
-- [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) &nbsp;<sub>Sep 15</sub>
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) &nbsp;<sub>Sep 15</sub>
+<!-- TECH-NEWS:START -->- [Iceland-based Treble raises $18 million for its voice simulation platform](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/) &nbsp;<sub>Sep 17</sub>
+- [Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 17</sub>
+- [Snap tries to make the case again for its $2,200 smart glasses](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/) &nbsp;<sub>Sep 17</sub>
+- [Al Gore says the real AI risk isn’t data centers](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/) &nbsp;<sub>Sep 16</sub>
+- [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac) &nbsp;<sub>Sep 16</sub>
+- [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/) &nbsp;<sub>Sep 16</sub>
 <!-- TECH-NEWS:END -->
 
 ---
