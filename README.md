@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Iceland-based Treble raises $18 million for its voice simulation platform](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/) &nbsp;<sub>Sep 17</sub>
-- [Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 17</sub>
-- [Snap tries to make the case again for its $2,200 smart glasses](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/) &nbsp;<sub>Sep 17</sub>
-- [Al Gore says the real AI risk isn’t data centers](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/) &nbsp;<sub>Sep 16</sub>
-- [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac) &nbsp;<sub>Sep 16</sub>
-- [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/) &nbsp;<sub>Sep 16</sub>
+<!-- TECH-NEWS:START -->- [A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai) &nbsp;<sub>Sep 18</sub>
+- [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/) &nbsp;<sub>Sep 17</sub>
+- [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/) &nbsp;<sub>Sep 17</sub>
+- [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/) &nbsp;<sub>Sep 17</sub>
+- [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/) &nbsp;<sub>Sep 17</sub>
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) &nbsp;<sub>Sep 17</sub>
 <!-- TECH-NEWS:END -->
 
 ---
