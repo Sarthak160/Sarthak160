@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle) &nbsp;<sub>Sep 21</sub>
-- [Amazon doesn’t trust Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping) &nbsp;<sub>Sep 21</sub>
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) &nbsp;<sub>Sep 20</sub>
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) &nbsp;<sub>Sep 20</sub>
-- [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) &nbsp;<sub>Sep 20</sub>
-- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) &nbsp;<sub>Sep 20</sub>
+<!-- TECH-NEWS:START -->- [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) &nbsp;<sub>Sep 21</sub>
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) &nbsp;<sub>Sep 21</sub>
+- [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) &nbsp;<sub>Sep 21</sub>
+- [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) &nbsp;<sub>Sep 21</sub>
+- [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) &nbsp;<sub>Sep 21</sub>
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) &nbsp;<sub>Sep 21</sub>
 <!-- TECH-NEWS:END -->
 
 ---
