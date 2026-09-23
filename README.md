@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) &nbsp;<sub>Sep 21</sub>
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) &nbsp;<sub>Sep 21</sub>
-- [I don&#39;t want to read what you didn&#39;t write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) &nbsp;<sub>Sep 21</sub>
-- [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) &nbsp;<sub>Sep 21</sub>
-- [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) &nbsp;<sub>Sep 21</sub>
-- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) &nbsp;<sub>Sep 21</sub>
+<!-- TECH-NEWS:START -->- [‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/) &nbsp;<sub>Sep 23</sub>
+- [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) &nbsp;<sub>Sep 23</sub>
+- [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/) &nbsp;<sub>Sep 22</sub>
+- [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) &nbsp;<sub>Sep 22</sub>
+- [Microsoft killed FoxPro in 2007. Anyway, here&#39;s FoxPro revived](https://foxscript.org/) &nbsp;<sub>Sep 22</sub>
+- [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3) &nbsp;<sub>Sep 22</sub>
 <!-- TECH-NEWS:END -->
 
 ---
