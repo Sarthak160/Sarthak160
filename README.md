@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu) &nbsp;<sub>Sep 24</sub>
-- [Everything new coming to Meta’s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) &nbsp;<sub>Sep 24</sub>
-- [Meta made a Tamagotchi-like wearable for its Muse AI agent](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/) &nbsp;<sub>Sep 24</sub>
-- [Meta is making a standalone Muse AI gadget](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware) &nbsp;<sub>Sep 24</sub>
-- [Meta VR Glasses](https://www.meta.com/vr-glasses/) &nbsp;<sub>Sep 23</sub>
-- [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features) &nbsp;<sub>Sep 23</sub>
+<!-- TECH-NEWS:START -->- [Lightspeed targets $250M for new India fund, focusing on early-stage AI](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/) &nbsp;<sub>Sep 25</sub>
+- [Gemini 3.8 Live with Live Avatar gives Google&amp;#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) &nbsp;<sub>Sep 24</sub>
+- [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/) &nbsp;<sub>Sep 24</sub>
+- [PrismML brings its tiny LLMs to Qualcomm-powered smart glasses](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/) &nbsp;<sub>Sep 24</sub>
+- [Oracle sends force majeure notice on its New Mexico Stargate data center](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/) &nbsp;<sub>Sep 24</sub>
+- [Jensen Huang talks about AI and climate change like a supervillain](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain) &nbsp;<sub>Sep 24</sub>
 <!-- TECH-NEWS:END -->
 
 ---
