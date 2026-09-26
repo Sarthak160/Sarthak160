@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Lightspeed targets $250M for new India fund, focusing on early-stage AI](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/) &nbsp;<sub>Sep 25</sub>
-- [Gemini 3.8 Live with Live Avatar gives Google&amp;#8217;s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) &nbsp;<sub>Sep 24</sub>
-- [Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/) &nbsp;<sub>Sep 24</sub>
-- [PrismML brings its tiny LLMs to Qualcomm-powered smart glasses](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/) &nbsp;<sub>Sep 24</sub>
-- [Oracle sends force majeure notice on its New Mexico Stargate data center](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/) &nbsp;<sub>Sep 24</sub>
-- [Jensen Huang talks about AI and climate change like a supervillain](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain) &nbsp;<sub>Sep 24</sub>
+<!-- TECH-NEWS:START -->- [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) &nbsp;<sub>Sep 26</sub>
+- [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) &nbsp;<sub>Sep 25</sub>
+- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) &nbsp;<sub>Sep 25</sub>
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) &nbsp;<sub>Sep 25</sub>
+- [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) &nbsp;<sub>Sep 25</sub>
+- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) &nbsp;<sub>Sep 25</sub>
 <!-- TECH-NEWS:END -->
 
 ---
