@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) &nbsp;<sub>Sep 26</sub>
-- [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) &nbsp;<sub>Sep 25</sub>
-- [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) &nbsp;<sub>Sep 25</sub>
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) &nbsp;<sub>Sep 25</sub>
-- [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/) &nbsp;<sub>Sep 25</sub>
-- [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) &nbsp;<sub>Sep 25</sub>
+<!-- TECH-NEWS:START -->- [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) &nbsp;<sub>Sep 27</sub>
+- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) &nbsp;<sub>Sep 26</sub>
+- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) &nbsp;<sub>Sep 26</sub>
+- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) &nbsp;<sub>Sep 26</sub>
+- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) &nbsp;<sub>Sep 26</sub>
+- [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising) &nbsp;<sub>Sep 26</sub>
 <!-- TECH-NEWS:END -->
 
 ---
