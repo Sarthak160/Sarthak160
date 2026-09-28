@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/) &nbsp;<sub>Sep 27</sub>
-- [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) &nbsp;<sub>Sep 26</sub>
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) &nbsp;<sub>Sep 26</sub>
-- [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) &nbsp;<sub>Sep 26</sub>
-- [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) &nbsp;<sub>Sep 26</sub>
-- [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising) &nbsp;<sub>Sep 26</sub>
+<!-- TECH-NEWS:START -->- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) &nbsp;<sub>Sep 28</sub>
+- [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music) &nbsp;<sub>Sep 27</sub>
+- [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) &nbsp;<sub>Sep 27</sub>
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) &nbsp;<sub>Sep 27</sub>
+- [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) &nbsp;<sub>Sep 27</sub>
+- [Ember-1](https://fireworks.ai/blog/ember-1) &nbsp;<sub>Sep 27</sub>
 <!-- TECH-NEWS:END -->
 
 ---
