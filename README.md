@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) &nbsp;<sub>Sep 28</sub>
-- [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music) &nbsp;<sub>Sep 27</sub>
-- [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) &nbsp;<sub>Sep 27</sub>
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) &nbsp;<sub>Sep 27</sub>
-- [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) &nbsp;<sub>Sep 27</sub>
-- [Ember-1](https://fireworks.ai/blog/ember-1) &nbsp;<sub>Sep 27</sub>
+<!-- TECH-NEWS:START -->- [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/) &nbsp;<sub>Sep 29</sub>
+- [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/) &nbsp;<sub>Sep 29</sub>
+- [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/) &nbsp;<sub>Sep 28</sub>
+- [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal) &nbsp;<sub>Sep 28</sub>
+- [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/) &nbsp;<sub>Sep 28</sub>
+- [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/) &nbsp;<sub>Sep 28</sub>
 <!-- TECH-NEWS:END -->
 
 ---
