@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/) &nbsp;<sub>Sep 29</sub>
-- [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/) &nbsp;<sub>Sep 29</sub>
-- [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/) &nbsp;<sub>Sep 28</sub>
-- [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal) &nbsp;<sub>Sep 28</sub>
-- [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/) &nbsp;<sub>Sep 28</sub>
-- [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/) &nbsp;<sub>Sep 28</sub>
+<!-- TECH-NEWS:START -->- [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety) &nbsp;<sub>Sep 30</sub>
+- [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/) &nbsp;<sub>Sep 29</sub>
+- [Trump orders US government to call AI ‘Super Intelligence’](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) &nbsp;<sub>Sep 29</sub>
+- [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) &nbsp;<sub>Sep 29</sub>
+- [Elon Musk&amp;#8217;s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again) &nbsp;<sub>Sep 29</sub>
+- [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) &nbsp;<sub>Sep 29</sub>
 <!-- TECH-NEWS:END -->
 
 ---
