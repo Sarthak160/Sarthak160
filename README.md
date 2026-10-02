@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai) &nbsp;<sub>Oct 1</sub>
-- [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/) &nbsp;<sub>Sep 30</sub>
-- [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/) &nbsp;<sub>Sep 30</sub>
-- [Google announces Gemini 4 and says it&amp;#8217;s so capable that only &amp;#8216;trusted cyber defenders&amp;#8217; can have it right now](https://www.theverge.com/tech/1002980/google-gemini-4-argon) &nbsp;<sub>Sep 30</sub>
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) &nbsp;<sub>Sep 30</sub>
-- [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/) &nbsp;<sub>Sep 30</sub>
+<!-- TECH-NEWS:START -->- [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) &nbsp;<sub>Oct 2</sub>
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) &nbsp;<sub>Oct 1</sub>
+- [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) &nbsp;<sub>Oct 1</sub>
+- [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision) &nbsp;<sub>Oct 1</sub>
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/) &nbsp;<sub>Oct 1</sub>
+- [Pi Durable](https://earendil.com/posts/pi-durable/) &nbsp;<sub>Oct 1</sub>
 <!-- TECH-NEWS:END -->
 
 ---
