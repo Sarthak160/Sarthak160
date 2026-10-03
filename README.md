@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) &nbsp;<sub>Oct 2</sub>
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) &nbsp;<sub>Oct 1</sub>
-- [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) &nbsp;<sub>Oct 1</sub>
-- [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision) &nbsp;<sub>Oct 1</sub>
-- [Pi 1.0](https://earendil.com/posts/pi-1-0/) &nbsp;<sub>Oct 1</sub>
-- [Pi Durable](https://earendil.com/posts/pi-durable/) &nbsp;<sub>Oct 1</sub>
+<!-- TECH-NEWS:START -->- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/) &nbsp;<sub>Oct 3</sub>
+- [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) &nbsp;<sub>Oct 3</sub>
+- [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) &nbsp;<sub>Oct 2</sub>
+- [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) &nbsp;<sub>Oct 2</sub>
+- [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) &nbsp;<sub>Oct 2</sub>
+- [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) &nbsp;<sub>Oct 2</sub>
 <!-- TECH-NEWS:END -->
 
 ---
