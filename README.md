@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/) &nbsp;<sub>Oct 3</sub>
-- [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) &nbsp;<sub>Oct 3</sub>
-- [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) &nbsp;<sub>Oct 2</sub>
-- [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) &nbsp;<sub>Oct 2</sub>
-- [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) &nbsp;<sub>Oct 2</sub>
-- [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) &nbsp;<sub>Oct 2</sub>
+<!-- TECH-NEWS:START -->- [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) &nbsp;<sub>Oct 3</sub>
+- [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) &nbsp;<sub>Oct 3</sub>
+- [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) &nbsp;<sub>Oct 3</sub>
+- [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview) &nbsp;<sub>Oct 3</sub>
+- [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) &nbsp;<sub>Oct 3</sub>
+- [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) &nbsp;<sub>Oct 3</sub>
 <!-- TECH-NEWS:END -->
 
 ---
