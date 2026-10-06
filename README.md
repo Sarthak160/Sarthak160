@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Can Safeworld convince people that gen AI robots won’t hurt them?](https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/) &nbsp;<sub>Oct 5</sub>
-- [Our minds aren’t equipped to handle AI](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought) &nbsp;<sub>Oct 5</sub>
-- [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/) &nbsp;<sub>Oct 4</sub>
-- [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/) &nbsp;<sub>Oct 4</sub>
-- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) &nbsp;<sub>Oct 4</sub>
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) &nbsp;<sub>Oct 4</sub>
+<!-- TECH-NEWS:START -->- [Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end](https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end) &nbsp;<sub>Oct 6</sub>
+- [Gemini Call for Me might tell your mom you&amp;#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors) &nbsp;<sub>Oct 5</sub>
+- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) &nbsp;<sub>Oct 5</sub>
+- [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/) &nbsp;<sub>Oct 5</sub>
+- [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions) &nbsp;<sub>Oct 5</sub>
+- [Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/) &nbsp;<sub>Oct 5</sub>
 <!-- TECH-NEWS:END -->
 
 ---
