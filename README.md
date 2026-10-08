@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [AI could upend food delivery](https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites) &nbsp;<sub>Oct 7</sub>
-- [ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media](https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media) &nbsp;<sub>Oct 7</sub>
-- [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github) &nbsp;<sub>Oct 6</sub>
-- [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/) &nbsp;<sub>Oct 6</sub>
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) &nbsp;<sub>Oct 6</sub>
-- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) &nbsp;<sub>Oct 6</sub>
+<!-- TECH-NEWS:START -->- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185) &nbsp;<sub>Oct 8</sub>
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) &nbsp;<sub>Oct 7</sub>
+- [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/) &nbsp;<sub>Oct 7</sub>
+- [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/) &nbsp;<sub>Oct 7</sub>
+- [ChatGPT&amp;#8217;s &amp;#8216;Intelligent UI&amp;#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6) &nbsp;<sub>Oct 7</sub>
+- [Everything announced at Microsoft&amp;#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced) &nbsp;<sub>Oct 7</sub>
 <!-- TECH-NEWS:END -->
 
 ---
