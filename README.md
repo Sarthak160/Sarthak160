@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [REA Reverse – Engineer Anything](https://rea.tools/) &nbsp;<sub>Oct 10</sub>
-- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) &nbsp;<sub>Oct 10</sub>
-- [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) &nbsp;<sub>Oct 9</sub>
-- [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) &nbsp;<sub>Oct 9</sub>
-- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) &nbsp;<sub>Oct 9</sub>
-- [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) &nbsp;<sub>Oct 9</sub>
+<!-- TECH-NEWS:START -->- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) &nbsp;<sub>Oct 11</sub>
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) &nbsp;<sub>Oct 10</sub>
+- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) &nbsp;<sub>Oct 10</sub>
+- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) &nbsp;<sub>Oct 10</sub>
+- [A city-building game in which the city would prefer you didn&#39;t](https://housing.over.pizza/) &nbsp;<sub>Oct 10</sub>
+- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) &nbsp;<sub>Oct 10</sub>
 <!-- TECH-NEWS:END -->
 
 ---
