@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress) &nbsp;<sub>Oct 11</sub>
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) &nbsp;<sub>Oct 10</sub>
-- [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) &nbsp;<sub>Oct 10</sub>
-- [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) &nbsp;<sub>Oct 10</sub>
-- [A city-building game in which the city would prefer you didn&#39;t](https://housing.over.pizza/) &nbsp;<sub>Oct 10</sub>
-- [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) &nbsp;<sub>Oct 10</sub>
+<!-- TECH-NEWS:START -->- [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) &nbsp;<sub>Oct 12</sub>
+- [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/) &nbsp;<sub>Oct 12</sub>
+- [Deloitte falsified documents to evade tax on Abramovich&#39;s wealth](https://www.bbc.com/news/articles/c64g1l5389kvo) &nbsp;<sub>Oct 12</sub>
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) &nbsp;<sub>Oct 11</sub>
+- [Passkeys are a trap](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) &nbsp;<sub>Oct 11</sub>
+- [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) &nbsp;<sub>Oct 11</sub>
 <!-- TECH-NEWS:END -->
 
 ---
