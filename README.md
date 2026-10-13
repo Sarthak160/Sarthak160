@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) &nbsp;<sub>Oct 12</sub>
-- [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/) &nbsp;<sub>Oct 12</sub>
-- [Deloitte falsified documents to evade tax on Abramovich&#39;s wealth](https://www.bbc.com/news/articles/c64g1l5389kvo) &nbsp;<sub>Oct 12</sub>
-- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) &nbsp;<sub>Oct 11</sub>
-- [Passkeys are a trap](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) &nbsp;<sub>Oct 11</sub>
-- [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) &nbsp;<sub>Oct 11</sub>
+<!-- TECH-NEWS:START -->- [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/) &nbsp;<sub>Oct 13</sub>
+- [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/) &nbsp;<sub>Oct 13</sub>
+- [Character.AI files for bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney) &nbsp;<sub>Oct 13</sub>
+- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) &nbsp;<sub>Oct 12</sub>
+- [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/) &nbsp;<sub>Oct 12</sub>
+- [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/) &nbsp;<sub>Oct 12</sub>
 <!-- TECH-NEWS:END -->
 
 ---
