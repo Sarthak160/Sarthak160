@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/) &nbsp;<sub>Oct 15</sub>
-- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) &nbsp;<sub>Oct 15</sub>
-- [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) &nbsp;<sub>Oct 15</sub>
-- [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled) &nbsp;<sub>Oct 15</sub>
-- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) &nbsp;<sub>Oct 15</sub>
-- [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column) &nbsp;<sub>Oct 15</sub>
+<!-- TECH-NEWS:START -->- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) &nbsp;<sub>Oct 16</sub>
+- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) &nbsp;<sub>Oct 16</sub>
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) &nbsp;<sub>Oct 16</sub>
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) &nbsp;<sub>Oct 16</sub>
+- [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) &nbsp;<sub>Oct 16</sub>
+- [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/) &nbsp;<sub>Oct 16</sub>
 <!-- TECH-NEWS:END -->
 
 ---
