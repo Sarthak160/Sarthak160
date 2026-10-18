@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) &nbsp;<sub>Oct 16</sub>
-- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) &nbsp;<sub>Oct 16</sub>
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) &nbsp;<sub>Oct 16</sub>
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) &nbsp;<sub>Oct 16</sub>
-- [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) &nbsp;<sub>Oct 16</sub>
-- [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/) &nbsp;<sub>Oct 16</sub>
+<!-- TECH-NEWS:START -->- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) &nbsp;<sub>Oct 17</sub>
+- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) &nbsp;<sub>Oct 17</sub>
+- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) &nbsp;<sub>Oct 17</sub>
+- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export) &nbsp;<sub>Oct 17</sub>
+- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) &nbsp;<sub>Oct 17</sub>
+- [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) &nbsp;<sub>Oct 17</sub>
 <!-- TECH-NEWS:END -->
 
 ---
