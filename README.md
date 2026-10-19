@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) &nbsp;<sub>Oct 17</sub>
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) &nbsp;<sub>Oct 17</sub>
-- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) &nbsp;<sub>Oct 17</sub>
-- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export) &nbsp;<sub>Oct 17</sub>
-- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) &nbsp;<sub>Oct 17</sub>
-- [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) &nbsp;<sub>Oct 17</sub>
+<!-- TECH-NEWS:START -->- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) &nbsp;<sub>Oct 18</sub>
+- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) &nbsp;<sub>Oct 18</sub>
+- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) &nbsp;<sub>Oct 18</sub>
+- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) &nbsp;<sub>Oct 18</sub>
+- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) &nbsp;<sub>Oct 18</sub>
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) &nbsp;<sub>Oct 18</sub>
 <!-- TECH-NEWS:END -->
 
 ---
