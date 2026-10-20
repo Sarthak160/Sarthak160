@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) &nbsp;<sub>Oct 18</sub>
-- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) &nbsp;<sub>Oct 18</sub>
-- [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) &nbsp;<sub>Oct 18</sub>
-- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) &nbsp;<sub>Oct 18</sub>
-- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) &nbsp;<sub>Oct 18</sub>
-- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) &nbsp;<sub>Oct 18</sub>
+<!-- TECH-NEWS:START -->- [OpenBSD 8.0](https://www.openbsd.org/80.html) &nbsp;<sub>Oct 20</sub>
+- [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/) &nbsp;<sub>Oct 20</sub>
+- [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/) &nbsp;<sub>Oct 19</sub>
+- [WhatsApp&#39;s help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) &nbsp;<sub>Oct 19</sub>
+- [Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/) &nbsp;<sub>Oct 19</sub>
+- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) &nbsp;<sub>Oct 19</sub>
 <!-- TECH-NEWS:END -->
 
 ---
