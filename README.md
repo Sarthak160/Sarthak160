@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [OpenBSD 8.0](https://www.openbsd.org/80.html) &nbsp;<sub>Oct 20</sub>
-- [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/) &nbsp;<sub>Oct 20</sub>
-- [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/) &nbsp;<sub>Oct 19</sub>
-- [WhatsApp&#39;s help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) &nbsp;<sub>Oct 19</sub>
-- [Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/) &nbsp;<sub>Oct 19</sub>
-- [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) &nbsp;<sub>Oct 19</sub>
+<!-- TECH-NEWS:START -->- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) &nbsp;<sub>Oct 21</sub>
+- [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed) &nbsp;<sub>Oct 20</sub>
+- [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) &nbsp;<sub>Oct 20</sub>
+- [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/) &nbsp;<sub>Oct 20</sub>
+- [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto) &nbsp;<sub>Oct 20</sub>
+- [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/) &nbsp;<sub>Oct 20</sub>
 <!-- TECH-NEWS:END -->
 
 ---
