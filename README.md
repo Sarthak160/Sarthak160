@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) &nbsp;<sub>Oct 21</sub>
-- [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed) &nbsp;<sub>Oct 20</sub>
-- [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) &nbsp;<sub>Oct 20</sub>
-- [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/) &nbsp;<sub>Oct 20</sub>
-- [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto) &nbsp;<sub>Oct 20</sub>
-- [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/) &nbsp;<sub>Oct 20</sub>
+<!-- TECH-NEWS:START -->- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) &nbsp;<sub>Oct 21</sub>
+- [There isn&#39;t an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) &nbsp;<sub>Oct 21</sub>
+- [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/) &nbsp;<sub>Oct 21</sub>
+- [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report) &nbsp;<sub>Oct 21</sub>
+- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) &nbsp;<sub>Oct 21</sub>
+- [Meta to create a new class of shares to fund AI push](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings) &nbsp;<sub>Oct 21</sub>
 <!-- TECH-NEWS:END -->
 
 ---
