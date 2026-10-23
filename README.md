@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) &nbsp;<sub>Oct 21</sub>
-- [There isn&#39;t an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) &nbsp;<sub>Oct 21</sub>
-- [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/) &nbsp;<sub>Oct 21</sub>
-- [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report) &nbsp;<sub>Oct 21</sub>
-- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) &nbsp;<sub>Oct 21</sub>
-- [Meta to create a new class of shares to fund AI push](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings) &nbsp;<sub>Oct 21</sub>
+<!-- TECH-NEWS:START -->- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/) &nbsp;<sub>Oct 23</sub>
+- [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/) &nbsp;<sub>Oct 23</sub>
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) &nbsp;<sub>Oct 22</sub>
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) &nbsp;<sub>Oct 22</sub>
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) &nbsp;<sub>Oct 22</sub>
+- [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) &nbsp;<sub>Oct 22</sub>
 <!-- TECH-NEWS:END -->
 
 ---
