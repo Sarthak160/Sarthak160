@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/) &nbsp;<sub>Oct 23</sub>
-- [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/) &nbsp;<sub>Oct 23</sub>
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) &nbsp;<sub>Oct 22</sub>
-- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) &nbsp;<sub>Oct 22</sub>
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) &nbsp;<sub>Oct 22</sub>
-- [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) &nbsp;<sub>Oct 22</sub>
+<!-- TECH-NEWS:START -->- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) &nbsp;<sub>Oct 23</sub>
+- [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) &nbsp;<sub>Oct 23</sub>
+- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) &nbsp;<sub>Oct 23</sub>
+- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) &nbsp;<sub>Oct 23</sub>
+- [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa) &nbsp;<sub>Oct 23</sub>
+- [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/) &nbsp;<sub>Oct 23</sub>
 <!-- TECH-NEWS:END -->
 
 ---
