@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) &nbsp;<sub>Oct 23</sub>
-- [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) &nbsp;<sub>Oct 23</sub>
-- [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) &nbsp;<sub>Oct 23</sub>
-- [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) &nbsp;<sub>Oct 23</sub>
-- [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa) &nbsp;<sub>Oct 23</sub>
-- [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/) &nbsp;<sub>Oct 23</sub>
+<!-- TECH-NEWS:START -->- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) &nbsp;<sub>Oct 24</sub>
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) &nbsp;<sub>Oct 24</sub>
+- [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) &nbsp;<sub>Oct 24</sub>
+- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) &nbsp;<sub>Oct 24</sub>
+- [The Goose Programming Language](https://aardappel.github.io/goose/) &nbsp;<sub>Oct 24</sub>
+- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) &nbsp;<sub>Oct 24</sub>
 <!-- TECH-NEWS:END -->
 
 ---
