@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) &nbsp;<sub>Oct 24</sub>
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) &nbsp;<sub>Oct 24</sub>
+<!-- TECH-NEWS:START -->- [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/) &nbsp;<sub>Oct 25</sub>
+- [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) &nbsp;<sub>Oct 25</sub>
+- [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) &nbsp;<sub>Oct 25</sub>
+- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) &nbsp;<sub>Oct 25</sub>
+- [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing) &nbsp;<sub>Oct 25</sub>
 - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) &nbsp;<sub>Oct 24</sub>
-- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) &nbsp;<sub>Oct 24</sub>
-- [The Goose Programming Language](https://aardappel.github.io/goose/) &nbsp;<sub>Oct 24</sub>
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) &nbsp;<sub>Oct 24</sub>
 <!-- TECH-NEWS:END -->
 
 ---
