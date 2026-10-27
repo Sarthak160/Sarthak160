@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/) &nbsp;<sub>Oct 25</sub>
-- [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) &nbsp;<sub>Oct 25</sub>
-- [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) &nbsp;<sub>Oct 25</sub>
-- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) &nbsp;<sub>Oct 25</sub>
-- [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing) &nbsp;<sub>Oct 25</sub>
-- [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) &nbsp;<sub>Oct 24</sub>
+<!-- TECH-NEWS:START -->- [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/) &nbsp;<sub>Oct 27</sub>
+- [Data center backlash is uniting America](https://www.theverge.com/policy/1019152/data-centers-midterm-elections) &nbsp;<sub>Oct 27</sub>
+- [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) &nbsp;<sub>Oct 27</sub>
+- [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/) &nbsp;<sub>Oct 27</sub>
+- [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) &nbsp;<sub>Oct 26</sub>
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) &nbsp;<sub>Oct 26</sub>
 <!-- TECH-NEWS:END -->
 
 ---
