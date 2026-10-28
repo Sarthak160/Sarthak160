@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/) &nbsp;<sub>Oct 27</sub>
-- [Data center backlash is uniting America](https://www.theverge.com/policy/1019152/data-centers-midterm-elections) &nbsp;<sub>Oct 27</sub>
-- [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/) &nbsp;<sub>Oct 27</sub>
-- [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/) &nbsp;<sub>Oct 27</sub>
-- [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) &nbsp;<sub>Oct 26</sub>
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) &nbsp;<sub>Oct 26</sub>
+<!-- TECH-NEWS:START -->- [Meta quietly launched an &amp;#8216;AI pet journal&amp;#8217; app](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world) &nbsp;<sub>Oct 28</sub>
+- [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much &lpar;much&rpar; more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) &nbsp;<sub>Oct 28</sub>
+- [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) &nbsp;<sub>Oct 27</sub>
+- [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/) &nbsp;<sub>Oct 27</sub>
+- [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/) &nbsp;<sub>Oct 27</sub>
+- [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) &nbsp;<sub>Oct 27</sub>
 <!-- TECH-NEWS:END -->
 
 ---
