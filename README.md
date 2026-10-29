@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Meta quietly launched an &amp;#8216;AI pet journal&amp;#8217; app](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world) &nbsp;<sub>Oct 28</sub>
-- [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much &lpar;much&rpar; more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) &nbsp;<sub>Oct 28</sub>
-- [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) &nbsp;<sub>Oct 27</sub>
-- [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/) &nbsp;<sub>Oct 27</sub>
-- [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/) &nbsp;<sub>Oct 27</sub>
-- [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) &nbsp;<sub>Oct 27</sub>
+<!-- TECH-NEWS:START -->- [AI has come for Arizona’s water](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc) &nbsp;<sub>Oct 29</sub>
+- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) &nbsp;<sub>Oct 29</sub>
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) &nbsp;<sub>Oct 29</sub>
+- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) &nbsp;<sub>Oct 28</sub>
+- [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity) &nbsp;<sub>Oct 28</sub>
+- [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/) &nbsp;<sub>Oct 28</sub>
 <!-- TECH-NEWS:END -->
 
 ---
