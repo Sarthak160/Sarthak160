@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) &nbsp;<sub>Oct 31</sub>
-- [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) &nbsp;<sub>Oct 31</sub>
-- [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) &nbsp;<sub>Oct 31</sub>
-- [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) &nbsp;<sub>Oct 31</sub>
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) &nbsp;<sub>Oct 31</sub>
-- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) &nbsp;<sub>Oct 31</sub>
+<!-- TECH-NEWS:START -->- [OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/) &nbsp;<sub>Nov 2</sub>
+- [OccupySaaS](https://occupysaas.com/) &nbsp;<sub>Nov 2</sub>
+- [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/) &nbsp;<sub>Nov 1</sub>
+- [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/) &nbsp;<sub>Nov 1</sub>
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) &nbsp;<sub>Nov 1</sub>
+- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) &nbsp;<sub>Nov 1</sub>
 <!-- TECH-NEWS:END -->
 
 ---
