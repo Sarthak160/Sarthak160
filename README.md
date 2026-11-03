@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/) &nbsp;<sub>Nov 2</sub>
-- [OccupySaaS](https://occupysaas.com/) &nbsp;<sub>Nov 2</sub>
-- [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/) &nbsp;<sub>Nov 1</sub>
-- [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/) &nbsp;<sub>Nov 1</sub>
-- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) &nbsp;<sub>Nov 1</sub>
-- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) &nbsp;<sub>Nov 1</sub>
+<!-- TECH-NEWS:START -->- [Apple Watch’s AI features for rewinding and recapping conversations begin beta testing](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/) &nbsp;<sub>Nov 3</sub>
+- [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/) &nbsp;<sub>Nov 3</sub>
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) &nbsp;<sub>Nov 3</sub>
+- [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/) &nbsp;<sub>Nov 3</sub>
+- [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/) &nbsp;<sub>Nov 3</sub>
+- [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/) &nbsp;<sub>Nov 2</sub>
 <!-- TECH-NEWS:END -->
 
 ---
