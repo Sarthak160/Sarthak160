@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Apple Watch’s AI features for rewinding and recapping conversations begin beta testing](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/) &nbsp;<sub>Nov 3</sub>
-- [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/) &nbsp;<sub>Nov 3</sub>
-- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) &nbsp;<sub>Nov 3</sub>
-- [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/) &nbsp;<sub>Nov 3</sub>
-- [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/) &nbsp;<sub>Nov 3</sub>
-- [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/) &nbsp;<sub>Nov 2</sub>
+<!-- TECH-NEWS:START -->- [Google hasn&amp;#8217;t figured out how to make AI pay like its search engine](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3) &nbsp;<sub>Nov 4</sub>
+- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) &nbsp;<sub>Nov 4</sub>
+- [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures) &nbsp;<sub>Nov 4</sub>
+- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) &nbsp;<sub>Nov 4</sub>
+- [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds) &nbsp;<sub>Nov 3</sub>
+- [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) &nbsp;<sub>Nov 3</sub>
 <!-- TECH-NEWS:END -->
 
 ---
