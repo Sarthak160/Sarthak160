@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Google hasn&amp;#8217;t figured out how to make AI pay like its search engine](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3) &nbsp;<sub>Nov 4</sub>
-- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) &nbsp;<sub>Nov 4</sub>
-- [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures) &nbsp;<sub>Nov 4</sub>
-- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) &nbsp;<sub>Nov 4</sub>
-- [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds) &nbsp;<sub>Nov 3</sub>
-- [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) &nbsp;<sub>Nov 3</sub>
+<!-- TECH-NEWS:START -->- [A YC startup is putting $1M behind five unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/) &nbsp;<sub>Nov 5</sub>
+- [Sshole](https://sshhole.com) &nbsp;<sub>Nov 5</sub>
+- [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/) &nbsp;<sub>Nov 5</sub>
+- [Big Tech’s big AI buildout will not end until someone stops it](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3) &nbsp;<sub>Nov 5</sub>
+- [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/) &nbsp;<sub>Nov 5</sub>
+- [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/) &nbsp;<sub>Nov 5</sub>
 <!-- TECH-NEWS:END -->
 
 ---
