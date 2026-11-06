@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [A YC startup is putting $1M behind five unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/) &nbsp;<sub>Nov 5</sub>
-- [Sshole](https://sshhole.com) &nbsp;<sub>Nov 5</sub>
-- [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/) &nbsp;<sub>Nov 5</sub>
-- [Big Tech’s big AI buildout will not end until someone stops it](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3) &nbsp;<sub>Nov 5</sub>
-- [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/) &nbsp;<sub>Nov 5</sub>
-- [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/) &nbsp;<sub>Nov 5</sub>
+<!-- TECH-NEWS:START -->- [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/) &nbsp;<sub>Nov 6</sub>
+- [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) &nbsp;<sub>Nov 6</sub>
+- [Protesters break into Microsoft data center site in Amsterdam](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam) &nbsp;<sub>Nov 6</sub>
+- [Blender&#39;s UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) &nbsp;<sub>Nov 6</sub>
+- [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/) &nbsp;<sub>Nov 6</sub>
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) &nbsp;<sub>Nov 6</sub>
 <!-- TECH-NEWS:END -->
 
 ---
