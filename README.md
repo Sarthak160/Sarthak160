@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/) &nbsp;<sub>Nov 6</sub>
-- [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) &nbsp;<sub>Nov 6</sub>
-- [Protesters break into Microsoft data center site in Amsterdam](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam) &nbsp;<sub>Nov 6</sub>
-- [Blender&#39;s UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) &nbsp;<sub>Nov 6</sub>
-- [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/) &nbsp;<sub>Nov 6</sub>
-- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) &nbsp;<sub>Nov 6</sub>
+<!-- TECH-NEWS:START -->- [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) &nbsp;<sub>Nov 7</sub>
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) &nbsp;<sub>Nov 6</sub>
+- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) &nbsp;<sub>Nov 6</sub>
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) &nbsp;<sub>Nov 6</sub>
+- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) &nbsp;<sub>Nov 6</sub>
+- [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) &nbsp;<sub>Nov 6</sub>
 <!-- TECH-NEWS:END -->
 
 ---
