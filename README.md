@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) &nbsp;<sub>Nov 7</sub>
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) &nbsp;<sub>Nov 6</sub>
-- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) &nbsp;<sub>Nov 6</sub>
-- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) &nbsp;<sub>Nov 6</sub>
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) &nbsp;<sub>Nov 6</sub>
-- [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) &nbsp;<sub>Nov 6</sub>
+<!-- TECH-NEWS:START -->- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) &nbsp;<sub>Nov 8</sub>
+- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) &nbsp;<sub>Nov 7</sub>
+- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) &nbsp;<sub>Nov 7</sub>
+- [Claude Code&#39;s &quot;Don&#39;t Ask Again&quot; exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) &nbsp;<sub>Nov 7</sub>
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) &nbsp;<sub>Nov 7</sub>
+- [The end of Microsoft Research&#39;s AI Frontiers group](https://hunch.net/?p=13764006) &nbsp;<sub>Nov 7</sub>
 <!-- TECH-NEWS:END -->
 
 ---
