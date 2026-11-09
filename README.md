@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) &nbsp;<sub>Nov 8</sub>
-- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) &nbsp;<sub>Nov 7</sub>
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) &nbsp;<sub>Nov 7</sub>
-- [Claude Code&#39;s &quot;Don&#39;t Ask Again&quot; exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) &nbsp;<sub>Nov 7</sub>
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) &nbsp;<sub>Nov 7</sub>
-- [The end of Microsoft Research&#39;s AI Frontiers group](https://hunch.net/?p=13764006) &nbsp;<sub>Nov 7</sub>
+<!-- TECH-NEWS:START -->- [Jonathan Kanter is using AI to take on Big Tech](https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech) &nbsp;<sub>Nov 9</sub>
+- [Automattic debuts a platform to deploy vibe coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/) &nbsp;<sub>Nov 9</sub>
+- [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695) &nbsp;<sub>Nov 9</sub>
+- [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/) &nbsp;<sub>Nov 9</sub>
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) &nbsp;<sub>Nov 9</sub>
+- [I&#39;m not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) &nbsp;<sub>Nov 8</sub>
 <!-- TECH-NEWS:END -->
 
 ---
