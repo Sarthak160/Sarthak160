@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Jonathan Kanter is using AI to take on Big Tech](https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech) &nbsp;<sub>Nov 9</sub>
-- [Automattic debuts a platform to deploy vibe coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/) &nbsp;<sub>Nov 9</sub>
-- [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695) &nbsp;<sub>Nov 9</sub>
-- [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/) &nbsp;<sub>Nov 9</sub>
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) &nbsp;<sub>Nov 9</sub>
-- [I&#39;m not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) &nbsp;<sub>Nov 8</sub>
+<!-- TECH-NEWS:START -->- [Hands-on with Ring’s new AI drone camera for your home](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot) &nbsp;<sub>Nov 10</sub>
+- [Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns](https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/) &nbsp;<sub>Nov 10</sub>
+- [Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/) &nbsp;<sub>Nov 10</sub>
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) &nbsp;<sub>Nov 10</sub>
+- [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/) &nbsp;<sub>Nov 10</sub>
+- [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai) &nbsp;<sub>Nov 10</sub>
 <!-- TECH-NEWS:END -->
 
 ---
