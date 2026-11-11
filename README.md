@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Hands-on with Ring’s new AI drone camera for your home](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot) &nbsp;<sub>Nov 10</sub>
-- [Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns](https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/) &nbsp;<sub>Nov 10</sub>
-- [Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/) &nbsp;<sub>Nov 10</sub>
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) &nbsp;<sub>Nov 10</sub>
-- [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/) &nbsp;<sub>Nov 10</sub>
-- [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai) &nbsp;<sub>Nov 10</sub>
+<!-- TECH-NEWS:START -->- [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/) &nbsp;<sub>Nov 11</sub>
+- [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) &nbsp;<sub>Nov 10</sub>
+- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) &nbsp;<sub>Nov 10</sub>
+- [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/) &nbsp;<sub>Nov 10</sub>
+- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) &nbsp;<sub>Nov 10</sub>
+- [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/) &nbsp;<sub>Nov 10</sub>
 <!-- TECH-NEWS:END -->
 
 ---
