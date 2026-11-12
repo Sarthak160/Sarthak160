@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/) &nbsp;<sub>Nov 11</sub>
-- [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) &nbsp;<sub>Nov 10</sub>
-- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) &nbsp;<sub>Nov 10</sub>
-- [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/) &nbsp;<sub>Nov 10</sub>
-- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) &nbsp;<sub>Nov 10</sub>
-- [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/) &nbsp;<sub>Nov 10</sub>
+<!-- TECH-NEWS:START -->- [Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/) &nbsp;<sub>Nov 12</sub>
+- [Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/) &nbsp;<sub>Nov 12</sub>
+- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) &nbsp;<sub>Nov 11</sub>
+- [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/) &nbsp;<sub>Nov 11</sub>
+- [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/) &nbsp;<sub>Nov 11</sub>
+- [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor) &nbsp;<sub>Nov 11</sub>
 <!-- TECH-NEWS:END -->
 
 ---
