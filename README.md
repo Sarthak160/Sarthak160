@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/) &nbsp;<sub>Nov 13</sub>
-- [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/) &nbsp;<sub>Nov 13</sub>
-- [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow) &nbsp;<sub>Nov 13</sub>
-- [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735) &nbsp;<sub>Nov 13</sub>
-- [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) &nbsp;<sub>Nov 13</sub>
-- [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) &nbsp;<sub>Nov 12</sub>
+<!-- TECH-NEWS:START -->- [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) &nbsp;<sub>Nov 14</sub>
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) &nbsp;<sub>Nov 14</sub>
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) &nbsp;<sub>Nov 14</sub>
+- [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) &nbsp;<sub>Nov 13</sub>
+- [Terminal borders that don&#39;t cost a cell](https://www.joshka.net/cell-borders/) &nbsp;<sub>Nov 13</sub>
+- [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) &nbsp;<sub>Nov 13</sub>
 <!-- TECH-NEWS:END -->
 
 ---
