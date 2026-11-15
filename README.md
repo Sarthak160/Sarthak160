@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) &nbsp;<sub>Nov 14</sub>
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) &nbsp;<sub>Nov 14</sub>
-- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) &nbsp;<sub>Nov 14</sub>
-- [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) &nbsp;<sub>Nov 13</sub>
-- [Terminal borders that don&#39;t cost a cell](https://www.joshka.net/cell-borders/) &nbsp;<sub>Nov 13</sub>
-- [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) &nbsp;<sub>Nov 13</sub>
+<!-- TECH-NEWS:START -->- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) &nbsp;<sub>Nov 15</sub>
+- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) &nbsp;<sub>Nov 14</sub>
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) &nbsp;<sub>Nov 14</sub>
+- [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) &nbsp;<sub>Nov 14</sub>
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) &nbsp;<sub>Nov 14</sub>
+- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) &nbsp;<sub>Nov 14</sub>
 <!-- TECH-NEWS:END -->
 
 ---
