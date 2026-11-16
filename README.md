@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) &nbsp;<sub>Nov 15</sub>
-- [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) &nbsp;<sub>Nov 14</sub>
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) &nbsp;<sub>Nov 14</sub>
-- [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) &nbsp;<sub>Nov 14</sub>
-- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) &nbsp;<sub>Nov 14</sub>
-- [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) &nbsp;<sub>Nov 14</sub>
+<!-- TECH-NEWS:START -->- [Google Maps can now create trip itineraries for you](https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning) &nbsp;<sub>Nov 16</sub>
+- [The Nvidia scandal isn’t slowing down](https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down) &nbsp;<sub>Nov 16</sub>
+- [Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/) &nbsp;<sub>Nov 16</sub>
+- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/) &nbsp;<sub>Nov 16</sub>
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) &nbsp;<sub>Nov 16</sub>
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) &nbsp;<sub>Nov 16</sub>
 <!-- TECH-NEWS:END -->
 
 ---
