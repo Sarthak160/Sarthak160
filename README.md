@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials](https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/) &nbsp;<sub>Nov 17</sub>
-- [Science Corporation’s brain tech is worth $3.5 billion after new funding](https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/) &nbsp;<sub>Nov 17</sub>
-- [Nvidia’s first big move after Jensen Huang’s exit targets national security](https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/) &nbsp;<sub>Nov 17</sub>
-- [Spotify’s new tool aims to stop deepfakes from being attributed to real artists](https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/) &nbsp;<sub>Nov 17</sub>
-- [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/) &nbsp;<sub>Nov 16</sub>
-- [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories) &nbsp;<sub>Nov 16</sub>
+<!-- TECH-NEWS:START -->- [Will Wright’s next game uses AI to map your memories](https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview) &nbsp;<sub>Nov 18</sub>
+- [Nvidia isn’t selling any more AI chips to China](https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling) &nbsp;<sub>Nov 18</sub>
+- [Suno now lets you make AI videos for your AI music](https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature) &nbsp;<sub>Nov 18</sub>
+- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) &nbsp;<sub>Nov 18</sub>
+- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) &nbsp;<sub>Nov 18</sub>
+- [Google&#39;s AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) &nbsp;<sub>Nov 18</sub>
 <!-- TECH-NEWS:END -->
 
 ---
