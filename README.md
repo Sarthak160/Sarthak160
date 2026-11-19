@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [Will Wright’s next game uses AI to map your memories](https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview) &nbsp;<sub>Nov 18</sub>
-- [Nvidia isn’t selling any more AI chips to China](https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling) &nbsp;<sub>Nov 18</sub>
-- [Suno now lets you make AI videos for your AI music](https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature) &nbsp;<sub>Nov 18</sub>
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) &nbsp;<sub>Nov 18</sub>
-- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) &nbsp;<sub>Nov 18</sub>
-- [Google&#39;s AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) &nbsp;<sub>Nov 18</sub>
+<!-- TECH-NEWS:START -->- [With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line](https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure) &nbsp;<sub>Nov 19</sub>
+- [I let Apple’s always-listening AI summarize my life for two weeks](https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on) &nbsp;<sub>Nov 19</sub>
+- [Canva adds an AI ‘off’ button](https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button) &nbsp;<sub>Nov 19</sub>
+- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) &nbsp;<sub>Nov 19</sub>
+- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) &nbsp;<sub>Nov 18</sub>
+- [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) &nbsp;<sub>Nov 18</sub>
 <!-- TECH-NEWS:END -->
 
 ---
