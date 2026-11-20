@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line](https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure) &nbsp;<sub>Nov 19</sub>
-- [I let Apple’s always-listening AI summarize my life for two weeks](https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on) &nbsp;<sub>Nov 19</sub>
-- [Canva adds an AI ‘off’ button](https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button) &nbsp;<sub>Nov 19</sub>
-- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) &nbsp;<sub>Nov 19</sub>
-- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) &nbsp;<sub>Nov 18</sub>
-- [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) &nbsp;<sub>Nov 18</sub>
+<!-- TECH-NEWS:START -->- [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast) &nbsp;<sub>Nov 20</sub>
+- [Signal is blocking Gemini and Siri AI from reading your screen](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app) &nbsp;<sub>Nov 20</sub>
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) &nbsp;<sub>Nov 20</sub>
+- [OpenSSL: Buffer overflow in EVP_EncodeBlock&lpar;&rpar; &lpar;CVE-2026-121481, CVSS 9.8&rpar;](https://github.com/openssl/openssl/pull/33652) &nbsp;<sub>Nov 20</sub>
+- [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing) &nbsp;<sub>Nov 19</sub>
+- [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings) &nbsp;<sub>Nov 19</sub>
 <!-- TECH-NEWS:END -->
 
 ---
