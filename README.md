@@ -280,12 +280,12 @@ High-performance parser for the **PostgreSQL wire protocol**, tuned to handle **
 
 <sub>Auto-updated daily from Hacker News, TechCrunch AI, and The Verge — <a href="#">see workflow</a></sub>
 
-<!-- TECH-NEWS:START -->- [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast) &nbsp;<sub>Nov 20</sub>
-- [Signal is blocking Gemini and Siri AI from reading your screen](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app) &nbsp;<sub>Nov 20</sub>
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) &nbsp;<sub>Nov 20</sub>
-- [OpenSSL: Buffer overflow in EVP_EncodeBlock&lpar;&rpar; &lpar;CVE-2026-121481, CVSS 9.8&rpar;](https://github.com/openssl/openssl/pull/33652) &nbsp;<sub>Nov 20</sub>
-- [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing) &nbsp;<sub>Nov 19</sub>
-- [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings) &nbsp;<sub>Nov 19</sub>
+<!-- TECH-NEWS:START -->- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) &nbsp;<sub>Nov 20</sub>
+- [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax) &nbsp;<sub>Nov 20</sub>
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) &nbsp;<sub>Nov 20</sub>
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) &nbsp;<sub>Nov 20</sub>
+- [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) &nbsp;<sub>Nov 20</sub>
+- [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem) &nbsp;<sub>Nov 20</sub>
 <!-- TECH-NEWS:END -->
 
 ---
